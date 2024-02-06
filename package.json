@@ -1,0 +1,16 @@
+{
+  "name": "press.start",
+  "version": "1.0.0",
+  "description": "Press Start is my first project here on github, i hope you guys liked it",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
