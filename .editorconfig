@@ -1,0 +1,6 @@
+root = true
+
+[*]
+#dentro desse [] eu posso colocar alguma especificação, por exemplo, se eu quero que modifique apenas arquivos js eu posso colocar [.js]
+indent_style = space
+indent_size = 2
