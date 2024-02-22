@@ -1,0 +1,9 @@
+No meu caso, não precisei criar e comitar um .nextignore depois da criação do lint:fix
+Pois, quando eu rodei o lint:fix não apareceu o .next de qualquer forma
+Não sei se é devido uma atualização do git ou do vscode no github, mas é melhor
+Pois, vai poupar trabalho, de qualque forma estou registrando por meio dessa nota;
+
+npm run lint:fix -> não ocasiona no processamento do .next e ignora completamente
+Apenas mostra as páginas que não estão no .gitignore
+
+Nota escrita em: 21-02-24
