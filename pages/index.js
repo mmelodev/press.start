@@ -12,3 +12,5 @@ function teste() {
 }
 
 export default Home;
+
+//nota de programador perdido: não lembro se para ativar o prettier ou o editorconfig preciso fazer install no terminal, fazer os testes para relembrar.
